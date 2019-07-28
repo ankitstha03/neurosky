@@ -1,0 +1,25 @@
+Data Type,Color,Command,Total data,Correctly predicted,Falsely predicted,Accuracy
+Seen,Red,0,50,39,11,78
+Seen,Blue,1,50,38,12,76
+Seen,Black,2,50,27,23,54
+Seen,Yellow,3,50,36,14,72
+Unseen,Red,0,50,32,18,64
+Unseen,Blue,1,50,34,16,68
+Unseen,Black,2,50,28,22,56
+Unseen,Yellow,3,50,29,21,58
+,,,,,Average,65.75
+,,,,,,
+,,,,,,
+Data Type,Color,Command,Total data,Correctly predicted,Falsely predicted,Accuracy
+Seen,Red,0,50,48,2,96
+Seen,Yellow,3,50,44,6,88
+Unseen,Red,0,50,48,2,96
+Unseen,Yellow,3,50,49,1,98
+,,,,,Average,94.5
+,,,,,,
+Data Type,Color,Command,Total data,Correctly predicted,Falsely predicted,Accuracy
+Seen,Red,0,50,46,4,92
+Seen,Yellow,3,50,45,5,90
+Unseen,Red,0,50,48,2,96
+Unseen,Yellow,3,50,48,2,96
+,,,,,Average,93.5
